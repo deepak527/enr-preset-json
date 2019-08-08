@@ -1,0 +1,34 @@
+{
+  "Preset 1": {
+    "SNR Thresholds": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "Max Attenuations": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  "Preset 2": {
+    "SNR Thresholds": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "Max Attenuations": [
+      25,
+      25,
+      25,
+      25,
+      25
+    ]
+  }
+}
